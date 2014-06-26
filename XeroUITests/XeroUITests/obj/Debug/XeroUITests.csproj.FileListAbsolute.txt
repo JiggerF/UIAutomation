@@ -1,0 +1,8 @@
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\bin\Debug\XeroUITests.dll
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\bin\Debug\XeroUITests.pdb
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\bin\Debug\WebDriver.dll
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\bin\Debug\WebDriver.Support.dll
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\obj\Debug\XeroUITests.dll
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\obj\Debug\XeroUITests.pdb
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\bin\Debug\chromedriver.exe
+D:\Projects\Automation\Selenium\Xero\XeroUITests\XeroUITests\XeroUITests\obj\Debug\XeroUITests.csprojResolveAssemblyReference.cache
